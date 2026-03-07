@@ -48,7 +48,7 @@
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipanshui&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipanshui&layout=compact&theme=tokyonight&count_private=true)
  
 ---
 
