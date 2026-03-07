@@ -42,14 +42,13 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bipanshuiE&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=bipanshui&theme=tokyonight)
 
 ---
 
 ### 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipanshui&layout=compact&theme=tokyonight)
-
 ---
 
 ### 📌 Featured Projects
