@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bipanshu</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Docker | Kubernetes | CI/CD</h3>
+<h3 align="center">DevOps & Cloud Engineering Enthusiast | AWS | Docker | Kubernetes | CI/CD</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Student focused on building a career in **DevOps & Cloud Engineering**
-- ☁️ Working with **AWS, Docker, Kubernetes, and CI/CD pipelines**
-- 🐍 Comfortable with **Python for automation and scripting**
-- 🐧 Strong foundation in **Linux and system-level concepts**
-- 💻 Also experienced in **full-stack development (React, Node.js, Java, Spring Boot)**
-- 📦 Interested in **infrastructure, automation, and scalable system design**
-- 📚 Continuously learning and building real-world DevOps projects
+- 🎓 Student focused on building a career in **DevOps and Cloud Engineering**
+- ☁️ Hands-on experience with **AWS cloud services, containerization, and orchestration**
+- ⚙️ Skilled in building and managing **CI/CD pipelines for automated deployments**
+- 🐍 Using **Python for automation, scripting, and problem-solving**
+- 🐧 Strong understanding of **Linux, networking, and system fundamentals**
+- 📦 Experienced in **containerizing and deploying scalable applications**
+- 🧠 Passionate about **infrastructure automation, system reliability, and scalability**
 
 ---
 
@@ -41,11 +41,36 @@
 
 ---
 
-### 🧠 Problem Solving & CS Fundamentals
+### 🧠 Core Skills & Fundamentals
 
-- 💡 Practiced **Data Structures & Algorithms (DSA)** using **C++ and Java**
-- 🧠 Strong understanding of **problem-solving and algorithmic thinking**
-- 🏗️ Familiar with **System Design fundamentals** and scalable architecture concepts
+- 💡 Strong foundation in **Data Structures & Algorithms (C++ & Java)**
+- 🏗️ Understanding of **System Design principles (scalability, load balancing, fault tolerance)**
+- 🌐 Knowledge of **networking concepts (CIDR, VPC, subnets, routing)**
+- ⚡ Problem-solving mindset with focus on **efficient and scalable solutions**
+
+---
+
+### 📌 DevOps & Cloud Projects (Impact-Focused)
+
+🔹 **CI/CD Pipeline for Containerized Application**  
+- Designed and implemented a **CI/CD pipeline** using GitHub Actions  
+- Automated build, test, and deployment workflows  
+- Reduced manual deployment effort and improved delivery speed  
+
+🔹 **Dockerized Multi-Service Application**  
+- Containerized full-stack application using **Docker & Docker Compose**  
+- Improved portability and consistency across environments  
+- Managed service dependencies efficiently  
+
+🔹 **Kubernetes Deployment & Scaling**  
+- Deployed applications on **Kubernetes cluster**  
+- Configured **services, deployments, and scaling policies**  
+- Ensured high availability and fault tolerance  
+
+🔹 **AWS Cloud Infrastructure Setup**  
+- Designed and configured **VPC, subnets, route tables, and EC2 instances**  
+- Implemented **secure and scalable architecture (public/private subnet design)**  
+- Applied networking and security best practices  
 
 ---
 
