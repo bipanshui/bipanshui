@@ -41,37 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Problem Solving & CS Fundamentals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipanshui&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bipanshui&theme=tokyonight)
-
----
-
-### 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipanshui&layout=compact&theme=tokyonight&count_private=true)
-
----
-
-### 📌 Featured Projects
-
-🔹 **CI/CD Pipeline Project**  
-Automated build, test, and deployment using Docker and GitHub Actions
-
-🔹 **Containerized Full Stack Application**  
-Deployed multi-service app using Docker & Docker Compose
-
-🔹 **Kubernetes Deployment Setup**  
-Managed container orchestration with scaling and service exposure
-
-🔹 **Cloud Infrastructure Setup (AWS)**  
-VPC, EC2, and networking setup with secure architecture
+- 💡 Practiced **Data Structures & Algorithms (DSA)** using **C++ and Java**
+- 🧠 Strong understanding of **problem-solving and algorithmic thinking**
+- 🏗️ Familiar with **System Design fundamentals** and scalable architecture concepts
 
 ---
 
