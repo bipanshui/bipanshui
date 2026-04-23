@@ -25,6 +25,7 @@
 
 #### 🐧 System & Automation
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 
